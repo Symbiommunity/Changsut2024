@@ -1,0 +1,24 @@
+delta.rank,pval,level,nseqs,term,name,p.adj
+-1600,0.00024361,3,12,GO:0036159,inner dynein arm assembly,0.023315798
+-1525,1.32E-06,5,23,GO:0007288,sperm axoneme assembly,0.000280718
+-1513,3.57E-11,2,44,GO:0030317;GO:0060285;GO:0097722;GO:0001539,cilium-dependent cell motility,1.18E-08
+-1479,3.31E-12,5,51,GO:0060294,cilium movement involved in cell motility,1.23E-09
+-1410,2.26E-15,3,73,GO:0003341,cilium movement,1.34E-12
+-1351,3.35E-09,2,44,GO:0001578;GO:0035082,microtubule bundle formation,9.94E-07
+-1077,5.73E-05,2,32,GO:0070286,axonemal dynein complex assembly,0.008503752
+-787,1.97E-12,2,189,GO:0007018,microtubule-based movement,8.33E-10
+-747,4.11E-09,3,145,GO:0000226,microtubule cytoskeleton organization,1.11E-06
+-624,2.01E-13,2,337,GO:0007017,microtubule-based process,9.92E-11
+-563,2.11E-06,3,167,GO:0060271;GO:0044782;GO:0120031;GO:0030031,cell projection assembly,0.000418084
+-469,0.000796372,2,119,GO:0010970;GO:0030705;GO:0099111,microtubule-based transport,0.060585509
+-283,0.000353456,4,391,GO:0030030;GO:0120036,cell projection organization,0.030844221
+576,0.000307581,2,91,GO:1901136,carbohydrate derivative catabolic process,0.027654299
+581,3.13E-17,2,534,GO:0009059,macromolecule biosynthetic process,2.32E-14
+667,2.84E-20,2,479,GO:1901566,organonitrogen compound biosynthetic process,2.81E-17
+750,8.56E-22,2,403,GO:0043603,amide metabolic process,1.27E-18
+844,4.52E-24,2,350,GO:0006412;GO:0043043;GO:0006518;GO:0043604,peptide metabolic process,1.34E-20
+858,0.000956668,2,34,GO:0006022,aminoglycan metabolic process,0.070960828
+1074,0.000385974,5,25,GO:1901071;GO:0006040,amino sugar metabolic process,0.031810727
+1085,0.000112764,2,29,GO:0006959,humoral immune response,0.012391477
+1166,0.000217684,5,23,GO:0006026,aminoglycan catabolic process,0.021528938
+1594,4.30E-06,3,19,GO:0006032;GO:0006030;GO:1901072;GO:0046348,amino sugar catabolic process,0.000797698
